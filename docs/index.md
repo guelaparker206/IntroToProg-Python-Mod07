@@ -15,36 +15,38 @@ Another website I find easy to understand is https://realpython.com/python-excep
 ###### Pickling 
 Is defined in the Python documentation as: “Pickling” is the process whereby a Python object hierarchy is converted into a byte stream. External link: https://docs.python.org/3/library/pickle.html#module-pickle
 Another website I found useful in learning about the pickling feature in Python is https://www.geeksforgeeks.org/understanding-python-pickling-example/. I like it because it explains with examples in different scenarios how the code works, as well as the advantages of using the pickling feature.
-Creating the Python Script for Exception Handling
+
+## Creating the Python Script for Exception Handling
 
 The script uses the function “while True:” to create a loop if the condition under “try” is not true. It breaks when the user enters an integer.
 
-/IntroToProg-Python-Mod07/docs/ValueError_code.JPG
+![ValueError_code](https://github.com/guelaparker206/IntroToProg-Python-Mod07/blob/main/docs/ValueError_code.JPG?raw=true)
 
- 
+![ValueError_cmd](https://github.com/guelaparker206/IntroToProg-Python-Mod07/blob/main/docs/ValueError_cmd.JPG?raw=true)
+
 Figure 1. Script running from command prompt.
 
- 
-
+![ValueError_PyCharm](https://github.com/guelaparker206/IntroToProg-Python-Mod07/blob/main/docs/ValueError_PyCharm.JPG?raw=true)
 Figure 2. Script running in PyCharm.
 
  
-Creating the Python Script for Pickling
+## Creating the Python Script for Pickling
 
 The script imports code from another file, stores the data with pickle.dump function, and reads the data back with the function pickle.load.
 
+![pickling_code](https://github.com/guelaparker206/IntroToProg-Python-Mod07/blob/main/docs/pickling_code.JPG?raw=true)
 
-
+![pickling_cmd](https://github.com/guelaparker206/IntroToProg-Python-Mod07/blob/main/docs/pickling_cmd.JPG?raw=true)
  
-
 Figure 3. Script running from command prompt.
 
+![pickling_PyCharm](https://github.com/guelaparker206/IntroToProg-Python-Mod07/blob/main/docs/pickling_PyCharm.JPG?raw=true)
  
-
 Figure 4. Script running in PyCharm.
 
- 
-Figure 3. Data stored in file.
+![pickling_text](https://github.com/guelaparker206/IntroToProg-Python-Mod07/blob/main/docs/pickling_text.JPG?raw=true)
+
+Figure 5. Data stored in file.
 
 ## Summary
 This assignment covered exception handling and pickling features. Their definition of the concepts, references and a practical script. 
